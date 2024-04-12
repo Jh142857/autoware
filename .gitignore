@@ -23,3 +23,9 @@ capture/
 
 # CodeChecker
 .codechecker/
+
+# rosbag
+rosbag*
+
+# zip files
+*.zip
